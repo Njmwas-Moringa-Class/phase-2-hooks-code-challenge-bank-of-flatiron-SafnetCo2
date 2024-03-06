@@ -83,6 +83,48 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2024-03-06",
+      "category": "Food",
+      "description": "smokies",
+      "amount": "80",
+      "id": 13
+    },
+    {
+      "date": "",
+      "category": "Food",
+      "description": "smokies",
+      "amount": "0566",
+      "id": 14
+    },
+    {
+      "date": "2024-03-07",
+      "category": "Food",
+      "description": "smokies",
+      "amount": "0566",
+      "id": 15
+    },
+    {
+      "date": "2024-03-04",
+      "category": "Food",
+      "description": "smokies",
+      "amount": "077",
+      "id": 16
+    },
+    {
+      "date": "2024-03-04",
+      "category": "Food",
+      "description": "smokies",
+      "amount": "077",
+      "id": 17
+    },
+    {
+      "date": "2024-03-04",
+      "category": "Food",
+      "description": "smokies",
+      "amount": "077",
+      "id": 18
     }
   ]
 }
